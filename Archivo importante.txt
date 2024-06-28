@@ -1,1 +1,2 @@
 Hola, la versión de este archivo es V1 
+Esta es un emulación de una función nueva en el codigo
