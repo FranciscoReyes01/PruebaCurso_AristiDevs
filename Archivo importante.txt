@@ -1,2 +1,3 @@
 Hola, la versión de este archivo es V1 
-Esta es un emulación de una función nueva en el codigo
+Esta es un emulación de una función nueva en el código
+Funcion nueva de botón para comprar articulos
